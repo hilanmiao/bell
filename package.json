@@ -1,8 +1,8 @@
 {
-  "name": "@hapi/bell",
-  "description": "Third-party login plugin for hapi",
-  "version": "11.1.0",
-  "repository": "git://github.com/hapijs/bell",
+  "name": "hapi-bell-other",
+  "description": "Third-party login plugin for hapi，add weixin（微信） provider",
+  "version": "11.1.5",
+  "repository": "git@github.com:hilanmiao/bell.git",
   "main": "lib/index.js",
   "keywords": [
     "hapi",

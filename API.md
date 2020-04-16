@@ -15,7 +15,7 @@ session management. A common solution is to combine **bell** with the [**hapi-au
 ```js
 // Load modules
 
-const Bell = require('@hapi/bell');
+const Bell = require('hapi-bell-other');
 const Hapi = require('@hapi/hapi');
 
 

@@ -1,6 +1,8 @@
 <a href="http://hapijs.com"><img src="https://raw.githubusercontent.com/hapijs/assets/master/images/family.png" width="180px" align="right" /></a>
 
-# @hapi/bell
+> 由于微信不是标准的oauth2结构，而且PR到官方仓库被拒绝（@hapi/bell 主要是国外的第三方），所以创建了这个仓库
+
+# hapi-bell-other
 
 Third-party authentication plugin for [hapi](https://github.com/hapijs/hapi).
 
@@ -35,7 +37,7 @@ Twitter:
 ```js
 // Load modules
 
-const Bell = require('@hapi/bell');
+const Bell = require('hapi-bell-other');
 const Hapi = require('@hapi/hapi');
 
 
