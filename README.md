@@ -1,12 +1,14 @@
 <a href="http://hapijs.com"><img src="https://raw.githubusercontent.com/hapijs/assets/master/images/family.png" width="180px" align="right" /></a>
 
-> 由于微信不是标准的oauth2结构，而且PR到官方仓库被拒绝（@hapi/bell 主要是国外的第三方），所以创建了这个仓库
+> 由于微信不是标准的oauth2结构，而且[PR:438](https://github.com/hapijs/bell/pull/438)到官方仓库被拒绝（[@hapi/bell](https://github.com/hapijs/bell) 主要是国外的第三方），所以创建了这个仓库
 
 # hapi-bell-other
 
 Third-party authentication plugin for [hapi](https://github.com/hapijs/hapi).
 
 [![Build Status](https://secure.travis-ci.org/hapijs/bell.svg?branch=master)](http://travis-ci.org/hapijs/bell)
+
+![npm](https://img.shields.io/npm/v/hapi-bell-other)
 
 **bell** ships with built-in support for authentication using `ArcGIS Online`, `Auth0`, `AzureAD`,
 `BitBucket`, `Cognito`, `DigitalOcean`, `Discord`, `Dropbox`, `Facebook`, `Fitbit`, `Foursquare`,
