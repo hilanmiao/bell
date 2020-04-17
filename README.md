@@ -6,16 +6,16 @@
 
 Third-party authentication plugin for [hapi](https://github.com/hapijs/hapi).
 
-[![Build Status](https://secure.travis-ci.org/hapijs/bell.svg?branch=master)](http://travis-ci.org/hapijs/bell)
-
-![npm](https://img.shields.io/npm/v/hapi-bell-other)
+[![Build Status](https://secure.travis-ci.org/hapijs/bell.svg?branch=master)](http://travis-ci.org/hapijs/bell) 
+[![npm](https://img.shields.io/npm/v/hapi-bell-other)](https://www.npmjs.com/package/hapi-bell-other)
+[![npm](https://img.shields.io/npm/dt/hapi-bell-other)](https://www.npmjs.com/package/hapi-bell-other)
 
 **bell** ships with built-in support for authentication using `ArcGIS Online`, `Auth0`, `AzureAD`,
 `BitBucket`, `Cognito`, `DigitalOcean`, `Discord`, `Dropbox`, `Facebook`, `Fitbit`, `Foursquare`,
 `GitHub`, `GitLab`, `Google Plus`, `Google`, `Instagram`, `LinkedIn`, `Medium`, `Meetup`, `Mixer`,
 `Nest`, `Office365`, `Okta`, `Phabricator`, `Pingfed`, `Pinterest`, `Reddit`, `Salesforce`, `Slack`,
-`Spotify`, `Stripe`, `trakt.tv`, `Tumblr`, `Twitch`, `Twitter`, `VK`, `Wordpress`, `Windows Live`,
-and `Yahoo`.
+`Spotify`, `Stripe`, `trakt.tv`, `Tumblr`, `Twitch`, `Twitter`, `VK`, `Wordpress`, `Windows Live`,`Yahoo`
+and `Weixin`.
 
 It also supports any compliant `OAuth 1.0a` and `OAuth 2.0` based login services with a simple
 configuration object.
